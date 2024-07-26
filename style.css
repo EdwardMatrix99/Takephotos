@@ -1,0 +1,68 @@
+.hide{ 
+    display: none;
+}
+
+.startbutton{ 
+width: 120px;
+height: 60px;
+font-size: large;
+background: lightblue;
+color: white;
+border-radius: 10px;
+
+}
+
+.startbutton2{ 
+
+width: 120px;
+    height: 60px;
+    font-size: large;
+    background: lightblue;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.startbutton3 {
+
+    width: 120px;
+    height: 60px;
+    font-size: large;
+    background: lightblue;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.boton3{
+    width: 120px;
+        height: 60px;
+        font-size: large;
+        background: lightblue;
+        color: white;
+        border-radius: 10px;
+        transform: translate(-510px, 200px);
+}
+
+.D1{ 
+    width: 120px;
+        height: 60px;
+        font-size: large;
+        background: lightblue;
+        color: white;
+        border-radius: 10px;
+        transform: translate(-500px, 210px);
+
+}
+
+
+.boton2{ 
+width: 120px;
+    height: 60px;
+    font-size: large;
+    background: lightblue;
+    color: white;
+    border-radius: 10px;
+    transform: translate(1400px, 140px);
+}
+
